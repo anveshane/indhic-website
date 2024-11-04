@@ -1,4 +1,5 @@
 import Image from "next/image";
+import logoImg from '../../public/logo.png'
 
 export default function Home() {
   return (
@@ -6,7 +7,7 @@ export default function Home() {
       <header className="bg-indigo-400 text-white py-4">
         <div className="container mx-auto px-4 flex items-center">
           <Image
-            src="/logo.png"
+            src={logoImg}
             alt="Indhic Software Logo"
             width={100}
             height={100}
