@@ -9,8 +9,8 @@ export default function Home() {
           <Image
             src={logoImg}
             alt="Indhic Software Logo"
-            width={100}
-            height={100}
+            width={150}
+            height={150}
             className="mr-4"
           />
           <div>
@@ -37,9 +37,10 @@ export default function Home() {
             <li>LLM-based application development</li>
             <li>Agentic workflows and RAG integration</li>
             <li>ML and LLM operations</li>
-            <li>Backend and scalable system architecture</li>
+            <li>Fractional CTO, Backend and scalable system architecture advisory</li>
             <li>Generative AI training</li>
             <li>ASR/STT/TTS and voice agent pipelines</li>
+            <li>Accessibility Testing and Implementation</li>
           </ul>
         </section>
 
@@ -52,7 +53,7 @@ export default function Home() {
             <li>Application View: Conversational, Non-conversational, and Agentic Systems</li>
             <li>Personal View: Co-pilots for various user types</li>
             <li>Scaling View: From MVP to Pilot to Scaling</li>
-            <li>LLM SDLC View: Comprehensive development lifecycle management</li>
+            <li>LLM SDLC View: Comprehensive development lifecycle management and architecture advisory and guidance</li>
           </ul>
         </section>
 
