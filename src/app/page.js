@@ -6,7 +6,7 @@ export default function Home() {
       <header className="bg-indigo-400 text-white py-4">
         <div className="container mx-auto px-4 flex items-center">
           <Image
-            src="/logo.png"
+            src="../public/logo.png"
             alt="Indhic Software Logo"
             width={100}
             height={100}
